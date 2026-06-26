@@ -10,11 +10,11 @@ This project demonstrates the risk management process used by organizations to i
 
 The project follows a standard risk management lifecycle:
 
-1. Risk Identification
-2. Risk Assessment
-3. Risk Prioritization
+1. Risk Appetite Definition
+2. Risk Identification
+3. Risk Assessment
 4. Risk Treatment Planning
-5. Risk Monitoring
+5. Risk Monitoring and Reporting
 
 ## Skills Demonstrated
 
@@ -29,21 +29,25 @@ The project follows a standard risk management lifecycle:
 
 ## Deliverables
 
-### 01-risk-identification.md
+### 01-risk-appetite.md
 
-Documents identified risks affecting the organization.
+Documents the organization's risk appetite statements, appetite levels, tolerance thresholds, and board-approved risk categories.
 
-### 02-risk-assessment.md
+### 02-risk-register.md
 
-Evaluates risks based on likelihood and impact.
+Develops a structured organizational risk register, documenting identified risks, owners, likelihood, impact, and current status.
 
-### 03-risk-treatment-plan.md
+### 03-risk-assessment.md
 
-Defines mitigation strategies, control recommendations, risk owners, and treatment decisions.
+Evaluates identified risks using qualitative risk analysis techniques and assigns overall risk ratings based on likelihood and business impact.
+
+### 04-risk-treatment-plan.md
+
+Documents selected treatment options, recommended controls, mitigation strategies, assigned owners, and implementation priorities.
 
 ### evidence/
 
-Contains supporting documentation and screenshots related to the risk register exercise.
+Contains screenshots and supporting documentation from the GRC Practice Lab demonstrating the development of the risk management artifacts..
 
 ## Expected Outcome
 
